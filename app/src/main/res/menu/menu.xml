@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuConnexion"
+        android:icon="@drawable/connexion_icon"
+        android:title="connect"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/menuNotification"
+        android:icon="@drawable/notification_icon"
+        android:title="Notif"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuPreference"
+        android:title="preference"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuExit"
+        android:title="Exit"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/sign_out_button"
+        android:title="Sign Out"
+        app:showAsAction="ifRoom" />
+</menu>

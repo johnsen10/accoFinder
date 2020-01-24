@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_annonce"
+        android:enabled="true"
+        android:icon="@drawable/announce_icon"
+        android:title="Annonces"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_enregistre"
+        android:enabled="true"
+        android:icon="@drawable/favorite_icon"
+        android:title="Pour vous"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_message"
+        android:enabled="true"
+        android:icon="@drawable/chat_icon"
+        android:title="Discussions"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_recherche"
+        android:enabled="true"
+        android:icon="@drawable/search_icon"
+        android:title="Rechercher"
+        app:showAsAction="ifRoom" />
+
+</menu>

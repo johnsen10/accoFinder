@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775457640638",
+    "firebase_url": "https://acco-finder.firebaseio.com",
+    "project_id": "acco-finder",
+    "storage_bucket": "acco-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775457640638:android:ba935249997739d5868eef",
+        "android_client_info": {
+          "package_name": "com.example.senejean.logemoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775457640638-gr2lp40a6bih7jh6ikp7ih1j2ova2kg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeM7iamepql-_hy_dHtHiNxHPdjmQcdV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775457640638-gr2lp40a6bih7jh6ikp7ih1j2ova2kg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
